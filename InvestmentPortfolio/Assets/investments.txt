@@ -1,0 +1,21 @@
+type = "stock"
+symbol = "TD"
+name = "Toronto Dominion Bank"
+quantity = "450"
+price = "99.0"
+bookValue = "3466.499"
+
+type = "Mutual"
+symbol = "BL"
+name = "Boy love"
+quantity = "6969"
+price = "69.99"
+bookValue = "487760.31"
+
+type = "Mutual"
+symbol = "anx"
+name = "tom"
+quantity = "567"
+price = "12.34"
+bookValue = "6996.78"
+
